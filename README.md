@@ -7,3 +7,4 @@ The `helpdeco` utility can be used to decompile `.hlp` files into their core com
 ## TODO
 * Look into generating alternative file formats (such as `.chm`)
 * Understand why `helpdeco` has troubles generating the `.rtf` correctly
+* Manually add in the remaining text to the `.rtf` file
